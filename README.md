@@ -1,5 +1,16 @@
 # JIULIU新BLOG网站 项目结构文档
 
+📖 **[查看完整开发文档 DEVELOPMENT.md](./DEVELOPMENT.md)** - 包含详细的技术栈、API文档、开发指南和部署说明
+
+## 📚 文档导航
+
+- **[DEVELOPMENT.md](./DEVELOPMENT.md)** - 完整开发文档
+  - 项目简介与技术栈
+  - 详细的API接口文档
+  - 开发规范与最佳实践
+  - 构建部署指南
+  - 常见问题解答
+
 ### 功能模块
 ```
 components/
@@ -28,6 +39,8 @@ components/
 ```
 
 ## 🛠️ 快速启动
+
+> 💡 **提示**: 查看 [DEVELOPMENT.md](./DEVELOPMENT.md) 获取完整的开发文档，包括详细配置、API说明和部署指南。
 
 ### 开发环境
 ```bash
